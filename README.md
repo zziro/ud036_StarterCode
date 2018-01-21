@@ -7,7 +7,7 @@ Source code for a Movie Trailer website.
 	
 	git clone https://github.com/zziro/ud036_StarterCode
 
-2.- Once the project is downloaded in your local, go to the Project folder and you will see the entertaiment_center.oy file; run the file: 		entertaiment_center.py (using python v.3) by command line.
+2.- Once the project is downloaded in your local, go to the Project folder and you will see the entertaiment_center.py file; run the file: 		entertaiment_center.py (using python v.3) by command line.
 
 	python3 entertaiment_center.py
 
