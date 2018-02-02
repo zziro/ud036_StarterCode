@@ -1,5 +1,5 @@
 # ud036_StarterCode
-Source code for a Movie Trailer website.
+Application to list your favourite movies with its respective trailer.
 
 #How to run Movie Trailer project
 
