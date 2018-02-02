@@ -1,5 +1,5 @@
 # ud036_StarterCode
-Application to list your favourite movies with its respective trailer.
+Application to list your favourite movies with its respective trailers.
 
 #How to run Movie Trailer project
 
