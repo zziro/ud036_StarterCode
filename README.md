@@ -12,3 +12,6 @@ Application to list your favourite movies with its respective trailers.
 	python3 entertaiment_center.py
 
 3.- After that you will see borwser showing a list of your favourite movies.
+
+4- Once there. You can select a movie you like and see the trailer.
+
