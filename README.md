@@ -1,7 +1,7 @@
 # ud036_StarterCode
 Application to list your favourite movies with its respective trailers.
 
-# How to run Movie Trailer project
+## How to run Movie Trailer project
 
 1.- Clone the project from the repository to your local (e.g. /home/{User}/Projects) from:	
 	
@@ -21,7 +21,7 @@ Application to list your favourite movies with its respective trailers.
 [movie_trailer]: https://github.com/zziro/ud036_StarterCode/blob/master/images/movie_trailer.png
 
 
-# References
+## References
 
 1. [Python OOP](https://python.swaroopch.com/oop.html)
 2. [Python Arrays](https://www.programiz.com/python-programming/array)
